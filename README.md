@@ -1,0 +1,1 @@
+This is the simple Bootstrap 4 template.
