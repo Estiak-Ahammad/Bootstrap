@@ -1,1 +1,1 @@
-This is the simple Bootstrap 4 template. Estiak Ahammad. This is branch example.
+This is the simple Bootstrap 4 template. Simply run the html file.
